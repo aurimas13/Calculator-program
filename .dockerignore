@@ -1,4 +1,0 @@
-# this is .dockerignore file
-.mypy_cache
-.pytest_cache
-__pycache__

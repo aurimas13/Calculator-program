@@ -11,3 +11,5 @@ RUN pip install python-math
 WORKDIR /calculator/calculatorpackage
 COPY . .
 CMD ["python", "./calculator/calculator.py"]
+
+
