@@ -108,3 +108,4 @@ The commands to run in it are shown in [(Usage)](#usage)
 
 [LICENSE](https://github.com/aurimas13/calculator/blob/main/LICENSE)
 
+
