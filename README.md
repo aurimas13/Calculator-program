@@ -14,7 +14,6 @@
 
 
 
-
 # Calculator-program
 
 This is a Calculator package that contains **5 modules** ([calculator.py](https://github.com/aurimas13/calculator/blob/main/calculator/calculator.py), [tests.py](https://github.com/aurimas13/calculator/blob/main/test/tests.py), [setup.py](https://github.com/aurimas13/calculator/blob/main/setup.py),[__init__.py](https://github.com/aurimas13/Calculator/blob/main/calculator/__init__.py) for *calulator.py* and [__init__.py](https://github.com/aurimas13/Calculator/blob/main/tests/__init__.py) for *tests.py*), [Dockerfile](https://github.com/aurimas13/calculator/blob/main/Dockerfile), [LICENSE](https://github.com/aurimas13/calculator/blob/main/LICENSE), [.gitignore](https://github.com/aurimas13/calculator/blob/main/.gitignore) and [.dockerignore](https://github.com/aurimas13/calculator/blob/main/.dockerignore). 
