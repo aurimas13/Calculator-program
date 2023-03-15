@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="450px" src="https://github.com/aurimas13/Calculator-program/blob/main/images/calculator.jpeg"/>
+  <img height="450px" src="https://github.com/aurimas13/Calculator-program/blob/main/public/images/calculator.jpeg"/>
 </p>
 
 <p align="center" > <b> Calculator App </b> </p>
