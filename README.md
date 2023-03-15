@@ -1,5 +1,5 @@
 <p align=center>
-  <img height="300px" src="https://github.com/aurimas13/Road-App/blob/main/public/images/road_vehicle.jpg"/>
+  <img height="300px" src="https://github.com/aurimas13/Calculator-program/blob/main/images/calculator.jpeg"/>
 </p>
 
 <p align="center" > <b> Road Analysis App </b> </p>
