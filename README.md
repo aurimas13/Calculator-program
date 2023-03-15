@@ -1,8 +1,8 @@
 <p align=center>
-  <img height="300px" src="https://github.com/aurimas13/Calculator-program/blob/main/images/calculator.jpeg"/>
+  <img height="600px" src="https://github.com/aurimas13/Calculator-program/blob/main/images/calculator.jpeg"/>
 </p>
 
-<p align="center" > <b> Road Analysis App </b> </p>
+<p align="center" > <b> Calculator App </b> </p>
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/Road-App/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
